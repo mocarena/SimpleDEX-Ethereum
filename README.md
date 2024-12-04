@@ -41,7 +41,7 @@ Consulta el precio de los tokens en la red Ethereum.
 Si querés contribuir a este proyecto, sentite libre de hacer un fork y enviar un pull request con tus mejoras o correcciones. Asegurate de seguir buenas prácticas de desarrollo y realizar pruebas adecuadas.
 
 ## Licencia
-Este proyecto está bajo la licencia MIT. Puedes consultar el archivo LICENSE.txt para más detalles.
+Este proyecto está bajo la licencia MIT. Puedes consultar el archivo `LICENCIA.md` https://github.com/mocarena/SimpleDEX-Ethereum/blob/main/LICENCIA.md para más detalles.
 
 ## Agradecimientos
 Este proyecto fue creado utilizando la biblioteca ethers.js para interactuar con la blockchain de Ethereum, y está basado en el concepto de un intercambio descentralizado (DEX).
